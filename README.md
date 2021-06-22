@@ -1,13 +1,19 @@
 To get the application running locally:
 
-Install Node JS. Refer to https://nodejs.org/en/ to install nodejs.
+- Install Node JS. Refer to https://nodejs.org/en/ to install nodejs.
 
-Clone the repo and using command line move in to the project folder
+- Clone the repo and using command line move in to the project folder
 
-Install all required dependencies.
+- Install all required dependencies.
 
+```
          $ npm install
+```
 
-Start the local server
-$ npm start
-The API is now starts running on local web server, It will use port 3000. Port can be configured in scripts section of package.json
+- Start the local server
+
+```
+         $ npm start
+```
+
+The API is now starts running on local web server, It will use port 8000. Port can be configured in scripts section of `package.json`.
